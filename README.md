@@ -1,6 +1,6 @@
 ## Hi, I'm Aasrita 👋
 
-🌱 Computer Science student at MREC<br/>
+🌱 Computer Science student at MRDU<br/>
 🔭 I create practical, user-focused web applications that solve real-world problems.<br/>
 😄 Pronouns: she/her<br/>
 
